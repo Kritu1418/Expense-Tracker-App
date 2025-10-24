@@ -1,4 +1,4 @@
-export const BASE_URL = "/api/v1";
+export const BASE_URL = "https://expense-tracker-app-zhuo.onrender.com/api/v1";
 
 export const API_PATHS = {
   AUTH: {
